@@ -1,3 +1,3 @@
 readme
 
-tuto merge
+tuto cherry-pick
